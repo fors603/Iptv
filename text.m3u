@@ -233,5 +233,13 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.lb" ,Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="spacetoon.lb" , Spacetoon (1080p)
+#EXTINF:-1 tvg-id="spacetoon.lb" ,Spacetoon (1080p)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="majd.lb" ,Majd (1080p)
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="aljadeed.lb" ,Al jadeed (1080p)
+http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-id="otv.lb" ,OTV (1080p)
+http://185.9.2.18/chid_312/index.m3u8
+#EXTINF:-1 tvg-id="alsharqdiscovery.lb" ,al sharq discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
