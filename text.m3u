@@ -225,21 +225,35 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="rotanaCinema.lb" ,Rotana Cinema (720p)
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="rotanaClassic.lb" , Rotana classic (1080p)
+https://list.iptvcat.com/my_list/s/130e83dd2d21ee09c9efdd42ef17e542.m3u8
+#EXTINF:-1 tvg-id="mbc.lb" , MBC (1080p)
+https://list.iptvcat.com/my_list/s/25c1717a5d3863c752f0696ab95d1101.m3u8
+#EXTINF:-1 tvg-id="mbc2.lb" , MBC 2 (1080p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="mbc3.lb" ,mbc3 (720p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="mbc4.lb" ,MBC 4 (1080p)
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="mbc5.lb" ,MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="mbcDrama.lb" , MBC Drama (1080p)
+https://list.iptvcat.com/my_list/s/fd96c039bdf8b8f26aac659e005ff99b.m3u8
+#EXTINF:-1 tvg-id="moviesAction.lb" , Movies Action (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-id="alHadath.lb" , Al hadath (1080p)
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.lb" ,Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="spacetoon.lb" ,Spacetoon (1080p)
+#EXTINF:-1 tvg-id="spacetoon.lb" , Spacetoon (1080p)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="majd.lb" ,Majd (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="aljadeed.lb" ,Al jadeed (1080p)
+#EXTINF:-1 tvg-id="aljadeed.lb" , Al jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="otv.lb" ,OTV (1080p)
+#EXTINF:-1 tvg-id="otv.lb" , OTV (1080p)
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-id="alsharqdiscovery.lb" ,al sharq discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="dubaisports.lb" , Dubai Sports (1080p)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
