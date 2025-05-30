@@ -257,3 +257,7 @@ http://185.9.2.18/chid_312/index.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="dubaisports.lb" , Dubai Sports (1080p)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="MBC 1" group-title="MBC",MBC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://shahid.mbc.net/
+http://stream-url-from-your-playlist.m3u8
