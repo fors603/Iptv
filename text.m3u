@@ -263,8 +263,3 @@ http://185.9.2.18/chid_391/mono.m3u8
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-id="alsharqdiscovery.lb" ,al sharq discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/manifest/audio/96kbps/audio.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=1750000,RESOLUTION=1280x720,AUDIO="audio"
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/manifest/video/720p1750kbps/video.m3u8
-
