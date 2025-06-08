@@ -269,3 +269,5 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index_2.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.lb" ,Nickelodeon (1080p)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Lbci.lb" ,LBCI (1080p)
+https://games1.elahmad.online/tv746_www.elahmad.com_lbc/index.m3u8?token=8952914307d554fa742e96a3283ae3fb6c80ea4e-3c698fadeda7f6c5f5065a2c0fc0606d-1749436748-1749425948
