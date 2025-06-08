@@ -267,5 +267,5 @@ http://185.9.2.18/chid_312/index.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="alsharqnews.lb" ,al sharq news (1080p)
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index_2.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" 
+#EXTINF:-1 tvg-id="Nickelodeon.us" ,Nickelodeon (1080p) tvg-logo="https://i.imgur.com/E84jnP8.png" 
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
