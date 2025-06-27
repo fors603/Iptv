@@ -250,7 +250,7 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 tvg-id="mbcMasr.lb" ,MBC Masr (1080p)
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="mbcMasr2.lb" ,MBC Masr 2 (1080p)
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="mbcMasrDrama.lb" ,MBC Masr Drama (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="moviesAction.lb" , Movies Action (1080p)
@@ -273,9 +273,7 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index_2.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.lb" ,Nickelodeon (1080p)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="biensports.lb" ,Bien sports 2 (1080p)
-https://balance.footballii.ir/hls2/b2.m3u8
 #EXTINF:-1 tvg-id="alarabiya.lb" ,Al arabiya (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-id="lanatv.lb" ,Lana Tv (1080p)
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
