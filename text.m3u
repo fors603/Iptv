@@ -247,3 +247,5 @@ https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m
 https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="samaDubai.lb" ,Sama Dubai (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/platlist.m3u8
+#EXTINF:-1 tvg-id="alkarma.lb" ,Al karma (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/playlist.m3u8
