@@ -208,9 +208,9 @@ https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="mbc3.lb" ,MBC 3 (720p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="mbc4.lb" ,MBC 4 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="mbc5.lb" ,MBC 5 (1080p)
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="mbcAction.lb" ,MBC Action (1080p)
 https://edge66.magictvbox.com/liveApple/MBC_Action/index.m3u8
 #EXTINF:-1 tvg-id="mbcDrama" ,MBC Drama (1080p)
