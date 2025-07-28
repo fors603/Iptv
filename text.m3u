@@ -96,8 +96,6 @@ http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq",Ishtar TV (1080p)
 http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCIraq.iq",MBC Iraq (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="NRTTV.iq",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="NUBARPlusPlus.iq",NUBAR Plus TV (720p)
@@ -223,6 +221,8 @@ https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="mbcMasrDrama.lb" ,MBC Masr Drama (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.iq",MBC Iraq (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="moviesAction.lb" , Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="alHadath.lb" , Al hadath (1080p)
@@ -240,7 +240,7 @@ http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-id="alsharqdiscovery.lb" ,al sharq discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="alsharqnews.lb" ,al sharq news (1080p)
-https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index_2.m3u8
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.lb" ,Nickelodeon (1080p)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="alarabiya.lb" ,Al arabiya (1080p)
@@ -251,3 +251,5 @@ https://p-ltv.akamaized.net/ltv/ltv.m3u8
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/platlist.m3u8
 #EXTINF:-1 tvg-id="alkarma.lb" ,Al karma (1080p)
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="lbci.lb" ,LBCI (1080p)
+https://games1.elahmad.online/tv752_www.elahmad.com_lbc/playlist.m3u8?token=90ba01269b7e606f8a76e824be9b3aa6e49c3814-da49c909422b868b3e4ebcf8702b0408-1753747646-1753736846
