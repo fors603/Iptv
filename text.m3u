@@ -201,7 +201,7 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/playlist.m3u8
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-id="mbc1.lb" , MBC (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="mbc2.lb" , MBC 2 (1080p)
+#EXTINF:-1 tvg-id="mbc2.lb" tvg-logo="https://images.seeklogo.com/logo-png/17/1/mbc-2-logo-png_seeklogo-179002.png", MBC 2 (1080p)
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-id="mbc3.lb" ,MBC 3 (720p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
