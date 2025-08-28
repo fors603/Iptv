@@ -253,3 +253,5 @@ https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/pla
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dubaiSports.lb" ,Dubai Sports (1080p)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD",LBC International
+https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8
