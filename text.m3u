@@ -262,6 +262,6 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="BBC.lb" ,BBC News (1080p)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="Fox.lb" ,Fox News (1080p)
-https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/playlist.m3u8
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="ng.lb" , National Geographic Abu Dhabi (1080p)
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
