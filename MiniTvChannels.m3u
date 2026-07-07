@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="BeinSports.lb", Bein Sports (1080p)
-https://s3.us-east-2.amazonaws.com/cdd011/live/stream/720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Korax.lb", Korax 90 (1080p)
 https://2.simokora.com/my-hls/h9asfma10d5.m3u8
 #EXTINF:-1 tvg-id="alarabiya.lb" ,Al arabiya (1080p)
@@ -42,8 +40,6 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-id="lbc.lb" ,LBC (1080p)
 http://185.9.2.18/chid_327/index.m3u8
-#EXTINF:-1 tvg-id="lbci.lb" ,LBCI (1080p)
-https://games1.elahmad.store/tv10_www.elahmad.com_lbc/index.m3u8?token=878ec8368464443bc310f7c12a770ea0db4e5ec8-7f43812819998f2d7f008951a290ca34-1783454683-1783452883
 #EXTINF:-1 tvg-id="Noursat.lb",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.lb",MTV (1080p)
