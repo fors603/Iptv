@@ -263,8 +263,6 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="Fox.lb" ,Fox News (1080p)
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="KooraCity.lb", Koora City (1080p)
-https://do.brevana.shop/hioop1_720/index.m3u8
 #EXTINF:-1 tvg-id="BeinSports.lb", Bein Sports (1080p)
 https://s3.us-east-2.amazonaws.com/cdd011/live/stream/720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Korax.lb", Korax 90 (1080p)
