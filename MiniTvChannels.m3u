@@ -1,7 +1,9 @@
 #EXTINF:-1 tvg-id="Bein.lb", Bein Sports (1080p) [not reliable]
 https://pub-64bd1ce0f83f478096e21a0d8483b3f3.r2.dev/BMax2-2/index.m3u8
-#EXTINF:-1 tvg-id="Bein2.lb", Bein Sports (1080p)
+#EXTINF:-1 tvg-id="Bein2.lb", Bein Sports 8k (1080p)
 https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1 tvg-id="Bein3.lb", Bein Sports (1080p)
+https://s3.us-east-2.amazonaws.com/cff001/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="alarabiya.lb" ,Al arabiya (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
 #EXTINF:-1 tvg-id="aljadeed.lb" , Al jadeed (1080p)
