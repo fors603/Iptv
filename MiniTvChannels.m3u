@@ -70,3 +70,5 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 http://uaetv.org/live/28469712975346/18428143921285/298288.m3u8
 #EXTINF:-1 tvg-id="CartoonNet.lb",Cartoon Network (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/538628.m3u8
+#EXTINF:-1 tvg-id="SuboroTv.lb",Suboro Tv (1080p)
+http://uaetv.org/live/28469712975346/18428143921285/115331.m3u8
