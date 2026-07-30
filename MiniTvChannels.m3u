@@ -65,7 +65,7 @@ http://uaetv.org/live/28469712975346/18428143921285/71110.m3u8
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-id="lbc.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" ,LBC (1080p)
 http://185.9.2.18/chid_327/index.m3u8
-#EXTINF:-1 tvg-id="Noursat.lb",NourSAT (576p)
+#EXTINF:-1 tvg-id="Noursat.lb" tvg-logo="https://sc.dish.com/shared/images/station-logos/NORST.png" ,NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/mtv-lebanon-lb.png",MTV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
