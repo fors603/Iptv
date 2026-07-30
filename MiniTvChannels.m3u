@@ -45,25 +45,25 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 http://uaetv.org/live/28469712975346/18428143921285/446.m3u8
 #EXTINF:-1 tvg-id="MBCMax.iq" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/mbc-max-ae.png",MBC Max (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/449.m3u8
-#EXTINF:-1 tvg-id="rotanaCinema.lb" ,Rotana Cinema (1080p)
+#EXTINF:-1 tvg-id="rotanaCinema.lb" tvg-logo="" ,Rotana Cinema (1080p)
 https://fastly.live.brightcove.com/1843594381386176912/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1OTQzODEzODYxNzY5MTIifQ.gR3SH1NAJV7B314ehg7D4VKEKZpTcNP1k3lpbk3o7GY/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="rotanaAflam.lb" ,Rotana Aflam + (1080p)
+#EXTINF:-1 tvg-id="rotanaAflam.lb" tvg-logo="" ,Rotana Aflam + (1080p)
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="rotanaKHALIJEAH.lb" ,Rotana Khalijeah (1080p)
+#EXTINF:-1 tvg-id="rotanaKHALIJEAH.lb" tvg-logo="" ,Rotana Khalijeah (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/534445.m3u8
-#EXTINF:-1 tvg-id="rotanaCinema.lb" ,Rotana Cinema (1080p)
+#EXTINF:-1 tvg-id="rotanaCinema.lb" tvg-logo="" ,Rotana Cinema (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/187448.m3u8
-#EXTINF:-1 tvg-id="rotanaClassic.lb" ,Rotana Classic (1080p)
+#EXTINF:-1 tvg-id="rotanaClassic.lb" tvg-logo="" ,Rotana Classic (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/1357.m3u8
-#EXTINF:-1 tvg-id="rotanaComedy.lb" ,Rotana Comedy (1080p)
+#EXTINF:-1 tvg-id="rotanaComedy.lb" tvg-logo="" ,Rotana Comedy (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/64263.m3u8
-#EXTINF:-1 tvg-id="rotanaMusic.lb" ,Rotana Music (1080p)
+#EXTINF:-1 tvg-id="rotanaMusic.lb" tvg-logo="" ,Rotana Music (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/1358.m3u8
-#EXTINF:-1 tvg-id="rotanaDrama.lb" ,Rotana Drama (1080p)
+#EXTINF:-1 tvg-id="rotanaDrama.lb" tvg-logo="" ,Rotana Drama (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/1355.m3u8
-#EXTINF:-1 tvg-id="rotanaM+.lb" ,Rotana M+ (1080p)
+#EXTINF:-1 tvg-id="rotanaM+.lb" tvg-logo="" ,Rotana M+ (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/71110.m3u8
-#EXTINF:-1 tvg-id="rotanaKids.lb" ,Rotana Kids (1080p)
+#EXTINF:-1 tvg-id="rotanaKids.lb" tvg-logo="" ,Rotana Kids (1080p)
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-id="lbc.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/lbc-international-lb.png" ,LBC (1080p)
 http://185.9.2.18/chid_327/index.m3u8
@@ -71,17 +71,17 @@ http://185.9.2.18/chid_327/index.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/mtv-lebanon-lb.png",MTV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1 tvg-id="Ishtar.lb",Ishtar Tv (1080p)
+#EXTINF:-1 tvg-id="Ishtar.lb" tvg-logo="" ,Ishtar Tv (1080p)
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RoyaAlzaem.lb",Roya Al Z3em (1080p)
+#EXTINF:-1 tvg-id="RoyaAlzaem.lb" tvg-logo="",Roya Al Z3em (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
-#EXTINF:-1 tvg-id="RoyaAction.lb",Roya Action (1080p)
+#EXTINF:-1 tvg-id="RoyaAction.lb" tvg-logo="" ,Roya Action (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
-#EXTINF:-1 tvg-id="AsharqDiscovery.lb",Asharq Discovery (1080p)
+#EXTINF:-1 tvg-id="AsharqDiscovery.lb" tvg-logo="" ,Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlSharqDocumentary.lb",Asharq Documentary (1080p)
+#EXTINF:-1 tvg-id="AlSharqDocumentary.lb" tvg-logo="" ,Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="MtvOne.lb",MTV One (1080p)
+#EXTINF:-1 tvg-id="MtvOne.lb" tvg-logo="" ,MTV One (1080p)
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="LBCI.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/lbc-international-lb.png",LBCI (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/298288.m3u8
@@ -89,7 +89,7 @@ http://uaetv.org/live/28469712975346/18428143921285/298288.m3u8
 http://uaetv.org/live/28469712975346/18428143921285/465326.m3u8
 #EXTINF:-1 tvg-id="CartoonNet.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cartoon-network-int.png",Cartoon Network (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/385513.m3u8
-#EXTINF:-1 tvg-id="SuboroTv.lb",Suboro Tv (1080p)
+#EXTINF:-1 tvg-id="SuboroTv.lb" tvg-logo="" ,Suboro Tv (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/115331.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png",National Geographic Abu Dhabi (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/248621.m3u8
