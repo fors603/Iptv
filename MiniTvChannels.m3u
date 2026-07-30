@@ -11,7 +11,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3da
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="otv.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/otv-lb.png" , OTV (1080p)
 http://185.9.2.18/chid_312/index.m3u8
-#EXTINF:-1 tvg-id="spacetoon.lb" , Spacetoon (1080p)
+#EXTINF:-1 tvg-id="spacetoon.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" , Spacetoon (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" ,Al Jazeera Arabic (1080p)
 https://live-hls-web-aja-gcp.thehlive.com/AJA/index.m3u8
