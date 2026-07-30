@@ -71,15 +71,15 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="Ishtar.lb" tvg-logo="https://yt3.googleusercontent.com/5_CNeAF5cJmcufOl4YmN2b4lfZL1mpHXEg5aqaF8fnzKVV2_4L6dhA7cu08p2f1ii065jZr70A=s900-c-k-c0x00ffffff-no-rj" ,Ishtar Tv (1080p)
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RoyaAlzaem.lb" tvg-logo="",Roya Al Z3em (1080p)
+#EXTINF:-1 tvg-id="RoyaAlzaem.lb" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/lpyjjNklPb8dhun.png" ,Roya Al Z3em (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
-#EXTINF:-1 tvg-id="RoyaAction.lb" tvg-logo="" ,Roya Action (1080p)
+#EXTINF:-1 tvg-id="RoyaAction.lb" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/po30izi44CWccDn.png" ,Roya Action (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
-#EXTINF:-1 tvg-id="AsharqDiscovery.lb" tvg-logo="" ,Asharq Discovery (1080p)
+#EXTINF:-1 tvg-id="AsharqDiscovery.lb" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Asharq_Discovery.svg/revision/latest?cb=20231114005439" ,Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlSharqDocumentary.lb" tvg-logo="" ,Asharq Documentary (1080p)
+#EXTINF:-1 tvg-id="AlSharqDocumentary.lb" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asharq_Doc_23.png/revision/latest?cb=20230924082531" ,Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="MtvOne.lb" tvg-logo="" ,MTV One (1080p)
+#EXTINF:-1 tvg-id="MtvOne.lb" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.xM7MJ8VOKoPr4h5fKB7ZEQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" ,One fm (1080p)
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="LBCI.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/lbc-international-lb.png",LBCI (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/298288.m3u8
@@ -87,7 +87,7 @@ http://uaetv.org/live/28469712975346/18428143921285/298288.m3u8
 http://uaetv.org/live/28469712975346/18428143921285/465326.m3u8
 #EXTINF:-1 tvg-id="CartoonNet.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cartoon-network-int.png",Cartoon Network (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/385513.m3u8
-#EXTINF:-1 tvg-id="SuboroTv.lb" tvg-logo="" ,Suboro Tv (1080p)
+#EXTINF:-1 tvg-id="SuboroTv.lb" tvg-logo="https://suborotv.net/assets/suboro-logo-original-BEjw0K2w.png" ,Suboro Tv (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/115331.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png",National Geographic Abu Dhabi (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/248621.m3u8
