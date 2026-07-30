@@ -69,7 +69,7 @@ http://185.9.2.18/chid_327/index.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/mtv-lebanon-lb.png",MTV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1 tvg-id="Ishtar.lb" tvg-logo="" ,Ishtar Tv (1080p)
+#EXTINF:-1 tvg-id="Ishtar.lb" tvg-logo="https://yt3.googleusercontent.com/5_CNeAF5cJmcufOl4YmN2b4lfZL1mpHXEg5aqaF8fnzKVV2_4L6dhA7cu08p2f1ii065jZr70A=s900-c-k-c0x00ffffff-no-rj" ,Ishtar Tv (1080p)
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaAlzaem.lb" tvg-logo="",Roya Al Z3em (1080p)
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
