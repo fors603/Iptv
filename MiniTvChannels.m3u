@@ -47,25 +47,23 @@ http://uaetv.org/live/28469712975346/18428143921285/446.m3u8
 http://uaetv.org/live/28469712975346/18428143921285/449.m3u8
 #EXTINF:-1 tvg-id="rotanaCinema.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402472.webp" ,Rotana Cinema (1080p)
 https://fastly.live.brightcove.com/1843594381386176912/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1OTQzODEzODYxNzY5MTIifQ.gR3SH1NAJV7B314ehg7D4VKEKZpTcNP1k3lpbk3o7GY/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="rotanaAflam.lb" tvg-logo="" ,Rotana Aflam + (1080p)
+#EXTINF:-1 tvg-id="rotanaAflam.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402547.webp" ,Rotana Aflam + (1080p)
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-id="rotanaKHALIJEAH.lb" tvg-logo="" ,Rotana Khalijeah (1080p)
+#EXTINF:-1 tvg-id="rotanaKHALIJEAH.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402508.webp" ,Rotana Khalijeah (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/534445.m3u8
-#EXTINF:-1 tvg-id="rotanaCinema.lb" tvg-logo="" ,Rotana Cinema (1080p)
-http://uaetv.org/live/28469712975346/18428143921285/187448.m3u8
-#EXTINF:-1 tvg-id="rotanaClassic.lb" tvg-logo="" ,Rotana Classic (1080p)
+#EXTINF:-1 tvg-id="rotanaClassic.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402529.webp" ,Rotana Classic (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/1357.m3u8
-#EXTINF:-1 tvg-id="rotanaComedy.lb" tvg-logo="" ,Rotana Comedy (1080p)
+#EXTINF:-1 tvg-id="rotanaComedy.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402522.webp" ,Rotana Comedy (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/64263.m3u8
-#EXTINF:-1 tvg-id="rotanaMusic.lb" tvg-logo="" ,Rotana Music (1080p)
+#EXTINF:-1 tvg-id="rotanaMusic.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402600.webp" ,Rotana Music (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/1358.m3u8
-#EXTINF:-1 tvg-id="rotanaDrama.lb" tvg-logo="" ,Rotana Drama (1080p)
+#EXTINF:-1 tvg-id="rotanaDrama.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402515.webp" ,Rotana Drama (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/1355.m3u8
-#EXTINF:-1 tvg-id="rotanaM+.lb" tvg-logo="" ,Rotana M+ (1080p)
+#EXTINF:-1 tvg-id="rotanaM+.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402611.webp" ,Rotana M+ (1080p)
 http://uaetv.org/live/28469712975346/18428143921285/71110.m3u8
-#EXTINF:-1 tvg-id="rotanaKids.lb" tvg-logo="" ,Rotana Kids (1080p)
+#EXTINF:-1 tvg-id="rotanaKids.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402579.webp" ,Rotana Kids (1080p)
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:-1 tvg-id="lbc.lb" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/lebanon/lbc-international-lb.png" ,LBC (1080p)
+#EXTINF:-1 tvg-id="lbc.lb" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" ,LBC (1080p)
 http://185.9.2.18/chid_327/index.m3u8
 #EXTINF:-1 tvg-id="Noursat.lb",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
